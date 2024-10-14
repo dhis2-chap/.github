@@ -1,4 +1,4 @@
-## Welcome to CHAP on Github 👋
+## Welcome to CHAP on Github
 
 All repositories related to CHAP will be under this organization.
 
